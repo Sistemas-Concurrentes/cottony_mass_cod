@@ -5,4 +5,4 @@ The olive psyllid (\textit{Euphyllura olivina}), previously considered a seconda
 # Pipeline
 Overall pipeline of the proposed methodology.
 
-![pipeline](pipeline.png) <br>
+![pipeline](figures/pipeline.png) <br>
