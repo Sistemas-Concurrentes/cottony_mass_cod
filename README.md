@@ -11,5 +11,5 @@ Overall pipeline of the proposed methodology.
 # Citation
 Please cite those paper if you find helpful,
 ```
-
+Velesaca, H. O., Ruano, F., Gomez-Cantos, A., & Holgado-Terriza, J. A. (2025). Image Segmentation of Cottony Mass Produced by Euphyllura olivina (Hemiptera: Psyllidae) in Olive Trees Using Deep Learning. Agriculture, 15(23), 2485. https://doi.org/10.3390/agriculture15232485
 ```
